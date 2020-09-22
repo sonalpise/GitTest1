@@ -9,11 +9,13 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
     public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+     @Test
+    public void shouldAnswerWithTrue1()
     {
         assertTrue( true );
     }
